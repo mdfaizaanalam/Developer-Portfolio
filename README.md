@@ -108,3 +108,8 @@ $themeClrPrimary: #0062b9;
 If you like this project then give it a **Github** star by pressing the **Star** button ⭐
 
 ---
+## License 📄
+
+This project is licensed under the  **GPL-3.0** License - see the [LICENSE](LICENSE) file for details
+
+---
